@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa64db3a-9ee2-462d-abd5-f021d2ec5ae9": {
+      "ProjectGuid": "fa64db3a-9ee2-462d-abd5-f021d2ec5ae9",
+      "DisplayName": "Knapsack_Problem",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+C:\Users\User\Desktop\coding sources\Knapsack_Problem\Knapsack_Problem\Source1.cpp(157,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\coding sources\Knapsack_Problem\Knapsack_Problem\Source1.cpp(194,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\coding sources\Knapsack_Problem\Knapsack_Problem\Source1.cpp(314,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Knapsack_Problem.vcxproj -> C:\Users\User\Desktop\coding sources\Knapsack_Problem\x64\Debug\Knapsack_Problem.exe
